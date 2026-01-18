@@ -1,0 +1,5 @@
+{
+  "name": "ThreatScope Medical - Medical Device Cybersecurity Analyst",
+  "description": "A cybersecurity analysis assistant designed to support Business Analysts in identifying cybersecurity considerations for mobile applications (Android/iOS) controlling Class IIa hearing aids. The function involves analyzing feature descriptions to highlight potential threats, vulnerabilities, and compliance requirements to be addressed during the requirements gathering process.",
+  "requestFramePermissions": []
+}
